@@ -1,0 +1,35 @@
+.sponsor-container {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    height: calc(100vh - 40px); /* Adjust height based on padding */
+  }
+  
+  .past-events, .new-campaign {
+    width: 50%;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .event {
+    margin-bottom: 15px;
+  }
+  
+  .campaign-form label, .campaign-form input, .campaign-form textarea, .campaign-form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .publish-button {
+    background-color: #61dafb;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .publish-button:hover {
+    background-color: #36a2eb;
+  }
+  
