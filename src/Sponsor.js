@@ -92,6 +92,7 @@ function Sponsor() {
                 <div className="field">
                   <div className="control">
                     <button type="submit" className="button is-primary">Publish Campaign</button>
+                    <button type="submit" className="button is-primary">Withdraw Funds</button>
                   </div>
                 </div>
               </form>
